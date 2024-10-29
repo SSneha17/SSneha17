@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SSneha17, a Senior Software Engineer, currently on mission to advance my career while having a work life integration and be the best version of myself
 - 👀 I’m interested in and want to dive into  Data and AI space.
-- 🌱 I’m currently trying to advance in Python, along with my current knowledge in C#.Net. I am looking forward to explore Data Engineering and Analytics.
-- 😄 Pronouns: She/Her/Hers
+- 🌱 😄 Pronouns: She/Her/Hers
 
 
 <!---
