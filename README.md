@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSneha17, a Senior Software Engineer, currently on mission to advance my career while having a work life integration and be the best version of myself
-- 👀 I’m interested in and want to dive into  Data and AI space.
+- 👀 I’m interested in Data and AI space.
 - 🌱 😄 Pronouns: She/Her/Hers
 
 
