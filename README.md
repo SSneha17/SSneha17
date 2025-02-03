@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSneha17, a software professional passionate about continuous learning and innovation. I’m particularly interested in the Data and AI space and excited to explore new technologies and solutions.
-- 🌱 😄 Pronouns: She/Her/Hers
+- Pronouns: She/Her/Hers
 
 
 <!---
